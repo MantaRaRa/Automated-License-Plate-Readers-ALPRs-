@@ -21,19 +21,19 @@ Please Install and Import Dependencies listed below in the Terminal:
 
 
 
-Feature 1: (Read Data in) 
+######Feature 1: (Read Data in) 
 
 >OpenCV2 to import Image into Python
 
-Feature 2: (Manipulate and clean your data) 
+######Feature 2: (Manipulate and clean your data) 
 
 >OpenCV2 to PreProccess the Image, appling filters
 
-Feature 3: (Analyze your data) 
+######Feature 3: (Analyze your data) 
 
 >Edge Detection to detect where the license plates are located in the image, mask out the license plate
 
-Feature 4: (Visualize your data) 
+######Feature 4: (Visualize your data) 
 
 >easyOCR to Extract the license plate text
 >
