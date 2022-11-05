@@ -3,14 +3,14 @@
 This App leverages OpenCV and EasyOCR to analyze an image and extract the text within it.
 There are 2 Images in the assets, or you can analyze your own (copy your image to the assets folder and target the name of your file)
 
-\\\img = cv2.imread('assets/image2.jpeg')\\\
+```img = cv2.imread('assets/image2.jpeg')```
 
 ### Special instructions required for the Reviewer:
 
 This Jupyter notebook was created in Visual Studio Code V1.72.2
 Please Install and Import Dependencies listed below in the Terminal:
 
-///pip install OpenCV///
+```pip install OpenCV```
 
 ''' pip install EasyOCR '''
 
