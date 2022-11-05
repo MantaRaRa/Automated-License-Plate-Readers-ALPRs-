@@ -12,11 +12,11 @@ Please Install and Import Dependencies listed below in the Terminal:
 
 ```pip install OpenCV```
 
-''' pip install EasyOCR '''
+```pip install EasyOCR```
 
-''' pip install imutils '''
+```pip install imutils```
 
-''' pip3 install torch torchvision torchaudio '''
+```pip3 install torch torchvision torchaudio```
 
 
 Feature 1: (Read Data in) 
@@ -33,4 +33,4 @@ easyOCR to Extract the license plate text
 Matplotlib to display the image on a graph
 
 
-### Special Thanks to * Nicholas Renotte * and * CodeKY Mentors * for their Contributions.
+### Special Thanks to *Nicholas Renotte* and *CodeKY Mentors* for their Contributions.
