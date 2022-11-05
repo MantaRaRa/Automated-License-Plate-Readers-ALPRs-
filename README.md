@@ -18,7 +18,7 @@ Please Install and Import Dependencies listed below in the Terminal:
 
 ```pip3 install torch torchvision torchaudio```
 
-```***************```
+
 
 Feature 1: (Read Data in) 
 
