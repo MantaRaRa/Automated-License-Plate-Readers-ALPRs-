@@ -8,6 +8,7 @@ There are 2 Images in the assets, or you can analyze your own (copy your image t
 ### Special instructions required for the Reviewer:
 
 This Jupyter notebook was created in Visual Studio Code V1.72.2
+
 Please Install and Import Dependencies listed below in the Terminal:
 
 ```pip install OpenCV```
