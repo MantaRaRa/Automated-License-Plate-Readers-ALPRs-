@@ -34,6 +34,7 @@ Feature 3: (Analyze your data)
 Feature 4: (Visualize your data) 
 
 >easyOCR to Extract the license plate text
+>
 >Matplotlib to display the image on a graph
 
 
