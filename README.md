@@ -3,20 +3,20 @@
 This App leverages OpenCV and EasyOCR to analyze an image and extract the text within it.
 There are 2 Images in the assets, or you can analyze your own (copy your image to the assets folder and target the name of your file)
 
-'''img = cv2.imread('assets/image2.jpeg')'''
+''' img = cv2.imread('assets/image2.jpeg') '''
 
 ### Special instructions required for the Reviewer:
 
 This Jupyter notebook was created in Visual Studio Code V1.72.2
 Please Install and Import Dependencies listed below in the Terminal:
 
-'''pip install OpenCV'''
+''' pip install OpenCV '''
 
-'''pip install EasyOCR'''
+''' pip install EasyOCR '''
 
-'''pip install imutils'''
+''' pip install imutils '''
 
-'''pip3 install torch torchvision torchaudio'''
+''' pip3 install torch torchvision torchaudio '''
 
 
 Feature 1: (Read Data in) 
@@ -33,4 +33,4 @@ easyOCR to Extract the license plate text
 Matplotlib to display the image on a graph
 
 
-### Special Thanks to *Nicholas Renotte* and *CodeKY Mentors* for their Contributions.
+### Special Thanks to * Nicholas Renotte * and * CodeKY Mentors * for their Contributions.
