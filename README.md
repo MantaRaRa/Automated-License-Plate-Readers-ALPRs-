@@ -20,6 +20,8 @@ Please Install and Import Dependencies listed below in the Terminal:
 
 ```pip3 install torch torchvision torchaudio```
 
+```pip install matplotlib```
+
 
 
 ###### Feature 1: (Read Data in) 
