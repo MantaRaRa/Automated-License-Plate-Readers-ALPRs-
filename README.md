@@ -4,7 +4,7 @@ This App leverages OpenCV and EasyOCR to analyze an image and extract the text w
 
 There are 2 Images in the assets folder or you can analyze your own (copy your image to the assets folder and target the name of your file)
 
-'''img = cv2.imread('assets/image2.jpeg')'''
+```img = cv2.imread('assets/image2.jpeg')```
 
 ### Special instructions required for the Reviewer:
 
