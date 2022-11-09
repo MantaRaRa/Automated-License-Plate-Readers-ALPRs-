@@ -14,6 +14,8 @@ Please Install and Import Dependencies listed below in the Terminal:
 
 ```pip install opencv-python```
 
+```pip install opencv-contrib-python```
+
 ```pip install EasyOCR```
 
 ```pip install imutils```
@@ -43,4 +45,4 @@ Please Install and Import Dependencies listed below in the Terminal:
 >Matplotlib to display the image on a graph
 
 
-### Special Thanks to *Nicholas Renotte* and *CodeKY Mentors* for their Contributions.
+### Special Thanks to *Nicholas Renotte*, *Ian Hall* and *CodeKY Mentors* for their Contributions.
