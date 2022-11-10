@@ -10,7 +10,13 @@ There are 2 Images in the assets folder or you can analyze your own (copy your i
 
 This Jupyter notebook was created in Visual Studio Code V1.72.2
 
-Please Install and Import Dependencies listed below in the Terminal:
+Install the requirements In the Terminal window by typing: 
+
+```pip install -r requirements.txt```
+
+if that doesnt work install them Individually.
+
+Please Install and Import Dependencies individually listed below in the Terminal:
 
 ```pip install --upgrade pip```
 
@@ -34,7 +40,7 @@ Please Install and Import Dependencies listed below in the Terminal:
 
 ###### Feature 2: (Manipulate and clean your data) 
 
->OpenCV2 to PreProccess the Image, appling filters
+>OpenCV2 to PreProccess the Image, applying filters
 
 ###### Feature 3: (Analyze your data) 
 
