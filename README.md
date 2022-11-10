@@ -12,6 +12,8 @@ This Jupyter notebook was created in Visual Studio Code V1.72.2
 
 Please Install and Import Dependencies listed below in the Terminal:
 
+```pip install --upgrade pip```
+
 ```pip install opencv-python```
 
 ```pip install opencv-contrib-python```
