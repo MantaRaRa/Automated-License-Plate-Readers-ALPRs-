@@ -10,6 +10,10 @@ There are 2 Images in the assets folder or you can analyze your own (copy your i
 
 This Jupyter notebook was created in Visual Studio Code V1.72.2
 
+Install JupyterLab with pip in a Terminal Window:
+
+```pip install jupyterlab```
+
 Install the requirements In the Terminal window by typing: 
 
 ```pip install -r requirements.txt```
