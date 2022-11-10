@@ -14,6 +14,8 @@ Install JupyterLab with pip in a Terminal Window:
 
 ```pip install jupyterlab```
 
+Open the ```plateReader.ipynb``` file.
+
 Install the requirements In the Terminal window by typing: 
 
 ```pip install -r requirements.txt```
