@@ -46,7 +46,7 @@ Please Install and Import Dependencies individually listed below in the Terminal
 
 ###### Feature 2: (Manipulate and clean your data) 
 
->OpenCV2 to PreProccess the Image, applying filters
+>OpenCV2 to PreProccess the Image, appling filters
 
 ###### Feature 3: (Analyze your data) 
 
