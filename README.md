@@ -18,6 +18,10 @@ Open the ```plateReader.ipynb``` file.
 
 Install the requirements In the Terminal window by typing: 
 
+```cd C:\...\...\Automated-License-Plate-Readers-ALPRs-``` 
+
+(change your working directory to the main folder where the requirements.txt is located)
+
 ```pip install -r requirements.txt```
 
 if that doesnt work install them Individually.
@@ -26,13 +30,11 @@ Please Install and Import Dependencies individually listed below in the Terminal
 
 ```pip install --upgrade pip```
 
-```pip install opencv-python```
-
-```pip install opencv-contrib-python```
+```pip3 install opencv-contrib-python```
 
 ```pip install EasyOCR```
 
-```pip install imutils```
+```pip3 install imutils```
 
 ```pip3 install torch torchvision torchaudio```
 
